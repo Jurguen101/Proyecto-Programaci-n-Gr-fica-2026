@@ -24,8 +24,3 @@ Un juego de terror psicológico en primera persona enfocado en la atmósfera, la
 | **Correr** | `Left Shift` (Mantener) |
 | **Linterna (On/Off)** | `F` |
 | **Interactuar (Próximamente)** | `E` o `Click Izquierdo` |
-
-## 🛠️ Instalación y Uso
-1. Clona este repositorio:
-   ```bash
-   git clone [https://github.com/TU_USUARIO/TU_REPOSITORIO.git](https://github.com/TU_USUARIO/TU_REPOSITORIO.git)
