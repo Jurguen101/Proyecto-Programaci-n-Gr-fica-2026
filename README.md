@@ -24,3 +24,13 @@ Un juego de terror psicológico en primera persona enfocado en la atmósfera, la
 | **Correr** | `Left Shift` (Mantener) |
 | **Linterna (On/Off)** | `F` |
 | **Interactuar (Próximamente)** | `E` o `Click Izquierdo` |
+
+
+Equipo de Desarrollo / Créditos
+Delgadillo Jarquín Jurguen Adriel - Desarrollo principal, programación C# y diseño de entorno.
+
+Miranda Ruiz Rodrigo Marcelo - Busqueda de Modelos 3D
+
+Herrera Vásquez Carlos Eduardo - Sonidos ambiente y efectos de sonido
+
+Mendez Alfaro Carlos David - Texturizado
