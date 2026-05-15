@@ -37,7 +37,7 @@ Mendez Alfaro Carlos David - Texturizado
 
 
 
-# 🌲 SlenderUma - Survival Horror (Slenderman Style)
+# 🌲 SlenderUma - Survival Horror (Slenderman Style) 🇺🇸 🇺🇸 
 
 A first-person psychological horror game focused on atmosphere, exploration, and survival, developed in **Unity 2022.3 LTS**. The main objective is the collection of objects (notes) in a vast and dense nighttime forest, all while the player is stalked by an entity.
 
