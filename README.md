@@ -1,4 +1,4 @@
-# 🌲 SlenderUma - Survival Horror (Slenderman Style)
+# 🌲 SlenderUma - Survival Horror (Slenderman Style) 🇪🇸 
 
 Un juego de terror psicológico en primera persona enfocado en la atmósfera, la exploración y la supervivencia, desarrollado en **Unity 2022.3 LTS**. El objetivo principal es la recolección de objetos (notas) en un extenso y denso bosque nocturno, mientras el jugador es acechado por una entidad.
 
@@ -37,7 +37,7 @@ Mendez Alfaro Carlos David - Texturizado
 
 
 
-# 🌲 SlenderUma - Survival Horror (Slenderman Style) 🇺🇸 🇺🇸 
+# 🌲 SlenderUma - Survival Horror (Slenderman Style) 🇺🇸 
 
 A first-person psychological horror game focused on atmosphere, exploration, and survival, developed in **Unity 2022.3 LTS**. The main objective is the collection of objects (notes) in a vast and dense nighttime forest, all while the player is stalked by an entity.
 
