@@ -36,7 +36,6 @@ Herrera Vásquez Carlos Eduardo - Sonidos ambiente y efectos de sonido
 Mendez Alfaro Carlos David - Texturizado
 
 
-Here is the English translation of your GitHub README. I maintained the formatting so you can easily copy and paste it directly into your repository:
 
 # 🌲 SlenderUma - Survival Horror (Slenderman Style)
 
