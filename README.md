@@ -23,7 +23,7 @@ Un juego de terror psicológico en primera persona enfocado en la atmósfera, la
 | **Mirar alrededor** | `Mouse` |
 | **Correr** | `Left Shift` (Mantener) |
 | **Linterna (On/Off)** | `F` |
-| **Interactuar (Próximamente)** | `E` o `Click Izquierdo` |
+| **Interactuar** | `E` |
 
 
 ## 👥 Equipo de Desarrollo / Créditos 
@@ -35,6 +35,12 @@ Herrera Vásquez Carlos Eduardo - Sonidos ambiente y efectos de sonido
 
 Mendez Alfaro Carlos David - Texturizado
 
+
+
+
+
+
+<img width="1009" height="538" alt="593606992-87ee949b-5718-40fd-b212-0ebdb49a9eba" src="https://github.com/user-attachments/assets/e4534c08-1aa1-4de4-b1c4-ed277497fd11" />
 
 
 # 🌲 SlenderUma - Survival Horror (Slenderman Style) 🇺🇸 
@@ -67,7 +73,7 @@ A first-person psychological horror game focused on atmosphere, exploration, and
 | **Look around** | `Mouse` |
 | **Sprint** | `Left Shift` (Hold) |
 | **Flashlight (On/Off)** | `F` |
-| **Interact (Coming soon)** | `E` or `Left Click` |
+| **Interact** | `E` |
 
 ## 👥 Development Team / Credits
 
