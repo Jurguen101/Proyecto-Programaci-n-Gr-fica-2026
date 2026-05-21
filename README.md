@@ -4,7 +4,7 @@ Un juego de terror psicológico en primera persona enfocado en la atmósfera, la
 
 ## ⚙️ Tecnologías Utilizadas
 * **Motor:** Unity 2022.3.62f3 (LTS)
-* **Lenguaje:** C#
+* **Lenguaje:** C#/C++/OpenGL
 * **Entorno:** Terrain System de Unity
 
 ## 🎮 Mecánicas Actuales
@@ -50,7 +50,7 @@ A first-person psychological horror game focused on atmosphere, exploration, and
 ## ⚙️ Technologies Used
 
 * **Engine:** Unity 2022.3.62f3 (LTS)
-* **Language:** C#
+* **Language:** C#/C++/OpenGL
 * **Environment:** Unity Terrain System
 
 ## 🎮 Current Mechanics
