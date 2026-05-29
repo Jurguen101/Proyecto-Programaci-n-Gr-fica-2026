@@ -27,7 +27,7 @@ Un juego de terror psicológico en primera persona enfocado en la atmósfera, la
 
 
 ## 👥 Equipo de Desarrollo / Créditos 
-Delgadillo Jarquín Jurguen Adriel - Desarrollo principal, programación C# y diseño de entorno.
+Delgadillo Jarquín Jurguen Adriel - Desarrollo principal, programación C#, C++/OpenGL y diseño de entorno.
 
 Miranda Ruiz Rodrigo Marcelo - Busqueda de Modelos 3D
 
@@ -77,7 +77,7 @@ A first-person psychological horror game focused on atmosphere, exploration, and
 
 ## 👥 Development Team / Credits
 
-* **Delgadillo Jarquín Jurguen Adriel** - Lead development, C# programming, and environment design
+* **Delgadillo Jarquín Jurguen Adriel** - Lead development, C#, C++/OpenGL programming, and environment design
 * **Miranda Ruiz Rodrigo Marcelo** - 3D model sourcing
 * **Herrera Vásquez Carlos Eduardo** - Ambient sounds and sound effects
 * **Mendez Alfaro Carlos David** - Texturing
