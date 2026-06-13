@@ -20,7 +20,7 @@ This project uses **Git LFS (Large File Storage)** to manage compressed game ass
    git clone [https://github.com/Jurguen101/Proyecto-Programaci-n-Gr-fica-2026.git](https://github.com/Jurguen101/Proyecto-Programaci-n-Gr-fica-2026.git)
 Wait for the download to finish completely. Git LFS will automatically pull the heavy asset files during the cloning process.
 
-##🎮 How to Run
+## 🎮 How to Run
 Once the repository is successfully cloned to your local machine:
 
 Open the project root folder (Proyecto-Programaci-n-Gr-fica-2026).
@@ -29,7 +29,7 @@ Run Launcher.exe (Double-click).
 
 The custom C++ OpenGL application will launch and safely trigger the main game environment.
 
-##🛠️ Requirements & Dependencies
+## 🛠️ Requirements & Dependencies
 
 OS: Windows 10 / 11.
 
